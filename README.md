@@ -1,2 +1,2 @@
 # React-js
-Open source library for building user interface
+Open source javascript library for building user interface
